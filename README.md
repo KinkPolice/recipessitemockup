@@ -1,0 +1,1 @@
+the goal of this is to create barebones site for the recipes using HTML
