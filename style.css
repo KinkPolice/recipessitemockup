@@ -1,0 +1,71 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+
+.h1,
+h2,
+h3,
+h4{
+    margin-top:5px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    margin-left: 55px;
+    margin-right: 55px;
+    padding-left: 30px;
+    background-color: rgb(166, 184, 168);
+    
+}
+
+
+ul{
+margin-top: 15px;
+margin-left: 55px;
+padding:5px;
+}
+
+.ul,
+li {
+
+    margin:5px;
+    padding:3px;
+    font-size:15px;
+    box-sizing: border-box; 
+
+    
+}
+
+
+p{
+    margin-left: 55px;
+    margin-right: 55px;
+    padding-left:55px;
+    padding-left: 55px;
+}
+
+
+#part1{
+    margin-top: -20px;
+    box-sizing: border-box;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.survey, 
+div{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
